@@ -1,0 +1,15 @@
+﻿nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+    nav btn ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    nav btn ul li {
+        flex-grow: 1;
+        text-align: center;
+    }
